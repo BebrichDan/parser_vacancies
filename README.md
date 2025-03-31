@@ -1,2 +1,2 @@
-# perser_vacancies
+# parser_vacancies
 Сollecting data on developer vacancies
